@@ -1,5 +1,5 @@
-# NBomber Load Testing
-A small .NET load-testing project for testing API performance and seeing how the API behaves under load.
+# NBomber API Load Testing
+A small .NET API load-testing project for testing API performance and seeing how the API behaves under load.
 ## Running the load test
 Build and run the project from Visual Studio or the terminal. Once the test finishes, NBomber generates an HTML report you can open in a browser.
 ## Where to find the HTML report
